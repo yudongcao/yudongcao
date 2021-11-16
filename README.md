@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yudongcao
+- 👀 I’m interested in quantum computing
+- 🌱 I’m currently learning quantum information and quantum foundation
+- 💞️ I’m looking to collaborate on non-linear differential equations
+- 📫 How to reach me - by email david.yudong.cao@gmail.com
